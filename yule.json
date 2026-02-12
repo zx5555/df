@@ -4,7 +4,7 @@
   "logo": "./logo.gif",
   "lives": [
         {
-            "name": "联通直播",
+            "name": "山东移动",
             "type": 0,
             "url": "./sdyd.txt",
             "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}"
